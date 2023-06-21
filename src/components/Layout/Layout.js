@@ -13,7 +13,7 @@ const Layout = () => {
         </div>
         <div className="search-bar-container">
         <input type="text" placeholder="Search" className="search-bar-input" />
-        <button className="search-bar-button">Search Your Favourite Food here</button>
+        <button className="search-bar-button">Search Your Favourite food here</button>
       </div>
     </>
   )

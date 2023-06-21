@@ -6,7 +6,7 @@ import FastfoodIcon from '@mui/icons-material/Fastfood';
 import '../../styles/NavbarStyles.css';
 import DrawerComp from '../DrawerComp';
 
-const PAGES = ["Home", "About", "Menu", "Contact"]
+const PAGES = ["Home", "About", "Menu", "Contact", "Blog"]
 const Navbar = () => {
    const [value, setValue] = useState();
    const theme = useTheme();

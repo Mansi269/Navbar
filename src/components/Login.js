@@ -6,7 +6,7 @@ const LoginForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // TODO: Add your login logic here
+    
     console.log('Login form submitted');
   };
 
